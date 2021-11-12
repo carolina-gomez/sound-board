@@ -5,3 +5,4 @@
 - loop over array
 - create buttons w/ text
 - pay sound on click
+# sound-board
